@@ -1,0 +1,576 @@
+{
+  "1HGBH41JXMN109186": {
+    "vehicle_info": {
+      "vin": "1HGBH41JXMN109186",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2022,
+      "trim": "EX-L",
+      "mileage": 32000
+    },
+    "kbb_data": {
+      "instant_cash_offer": 23800,
+      "trade_in_range": {
+        "low": 23000,
+        "high": 25000
+      },
+      "private_party": 25500,
+      "retail": 27000
+    },
+    "comparables": [
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCV1F32JA123456",
+        "price": 24500,
+        "mileage": 30000,
+        "distance_miles": 8,
+        "days_listed": 12,
+        "listing_url": "https://cargurus.com/listing/12345",
+        "dealer_name": "CarMax Miami"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCV1F33JA234567",
+        "price": 25200,
+        "mileage": 28000,
+        "distance_miles": 15,
+        "days_listed": 8,
+        "listing_url": "https://cargurus.com/listing/23456",
+        "dealer_name": "AutoNation Honda"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCV1F34JA345678",
+        "price": 26500,
+        "mileage": 25000,
+        "distance_miles": 22,
+        "days_listed": 5,
+        "listing_url": "https://cargurus.com/listing/34567",
+        "dealer_name": "Honda of Miami"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "1HGCV1F35JA456789",
+        "price": 24800,
+        "mileage": 35000,
+        "distance_miles": 12,
+        "days_listed": 18,
+        "listing_url": "https://autotrader.com/listing/45678",
+        "dealer_name": "DriveTime"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "1HGCV1F36JA567890",
+        "price": 23900,
+        "mileage": 38000,
+        "distance_miles": 20,
+        "days_listed": 25,
+        "listing_url": "https://autotrader.com/listing/56789",
+        "dealer_name": "Carvana"
+      }
+    ],
+    "market_summary": {
+      "avg_price": 24980,
+      "min_price": 23900,
+      "max_price": 26500,
+      "total_comparables": 5,
+      "outliers_removed": 2
+    }
+  },
+  "5YJYGDEF2NF123456": {
+    "vehicle_info": {
+      "vin": "5YJYGDEF2NF123456",
+      "make": "Tesla",
+      "model": "Model Y",
+      "year": 2022,
+      "trim": "Performance",
+      "mileage": 28500
+    },
+    "kbb_data": {
+      "instant_cash_offer": 48000,
+      "trade_in_range": {
+        "low": 47000,
+        "high": 52000
+      },
+      "private_party": 52000,
+      "retail": 55000
+    },
+    "comparables": [
+      {
+        "source": "cargurus",
+        "comparable_vin": "5YJYGDEF3NF100123",
+        "price": 51500,
+        "mileage": 25000,
+        "distance_miles": 8,
+        "days_listed": 12,
+        "listing_url": "https://cargurus.com/listing/modely1",
+        "dealer_name": "Tesla Miami"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "5YJYGDEF4NF100234",
+        "price": 50800,
+        "mileage": 30000,
+        "distance_miles": 15,
+        "days_listed": 10,
+        "listing_url": "https://cargurus.com/listing/modely2",
+        "dealer_name": "Carvana"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "5YJYGDEF5NF100345",
+        "price": 53200,
+        "mileage": 22000,
+        "distance_miles": 20,
+        "days_listed": 7,
+        "listing_url": "https://cargurus.com/listing/modely3",
+        "dealer_name": "Vroom"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "5YJYGDEF6NF100456",
+        "price": 49900,
+        "mileage": 32000,
+        "distance_miles": 12,
+        "days_listed": 18,
+        "listing_url": "https://autotrader.com/listing/modely4",
+        "dealer_name": "CarMax"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "5YJYGDEF7NF100567",
+        "price": 51200,
+        "mileage": 27000,
+        "distance_miles": 10,
+        "days_listed": 14,
+        "listing_url": "https://autotrader.com/listing/modely5",
+        "dealer_name": "AutoNation USA"
+      }
+    ],
+    "market_summary": {
+      "avg_price": 51320,
+      "min_price": 49900,
+      "max_price": 53200,
+      "total_comparables": 5,
+      "outliers_removed": 0
+    }
+  },
+  "1FTFW1ET5DFC10234": {
+    "vehicle_info": {
+      "vin": "1FTFW1ET5DFC10234",
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2019,
+      "trim": "Lariat",
+      "mileage": 65000
+    },
+    "kbb_data": {
+      "instant_cash_offer": 30500,
+      "trade_in_range": {
+        "low": 29000,
+        "high": 33000
+      },
+      "private_party": 33500,
+      "retail": 36000
+    },
+    "comparables": [
+      {
+        "source": "cargurus",
+        "comparable_vin": "1FTEW1E58JFA12345",
+        "price": 32500,
+        "mileage": 60000,
+        "distance_miles": 5,
+        "days_listed": 10,
+        "listing_url": "https://cargurus.com/listing/f150_1",
+        "dealer_name": "Ford of Miami"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "1FTEW1E59JFA23456",
+        "price": 31800,
+        "mileage": 68000,
+        "distance_miles": 12,
+        "days_listed": 15,
+        "listing_url": "https://cargurus.com/listing/f150_2",
+        "dealer_name": "CarMax"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "1FTEW1E50JFA34567",
+        "price": 33200,
+        "mileage": 58000,
+        "distance_miles": 20,
+        "days_listed": 7,
+        "listing_url": "https://cargurus.com/listing/f150_3",
+        "dealer_name": "AutoNation Ford"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "1FTEW1E51JFA45678",
+        "price": 30800,
+        "mileage": 72000,
+        "distance_miles": 18,
+        "days_listed": 22,
+        "listing_url": "https://autotrader.com/listing/f150_4",
+        "dealer_name": "DriveTime"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "1FTEW1E52JFA56789",
+        "price": 32200,
+        "mileage": 63000,
+        "distance_miles": 8,
+        "days_listed": 12,
+        "listing_url": "https://autotrader.com/listing/f150_5",
+        "dealer_name": "Carvana"
+      }
+    ],
+    "market_summary": {
+      "avg_price": 32100,
+      "min_price": 30800,
+      "max_price": 33200,
+      "total_comparables": 5,
+      "outliers_removed": 0
+    },
+    "regional_data": {
+      "current_region": "Southeast",
+      "avg_price_southeast": 32100,
+      "avg_price_southwest": 34500,
+      "arbitrage_opportunity": 2400,
+      "note": "F-150 trucks command premium pricing in Texas/Southwest markets"
+    }
+  },
+  "WBAJE5C50HWY01234": {
+    "vehicle_info": {
+      "vin": "WBAJE5C50HWY01234",
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2020,
+      "trim": "330i",
+      "mileage": 45000
+    },
+    "kbb_data": {
+      "instant_cash_offer": 25500,
+      "trade_in_range": {
+        "low": 24500,
+        "high": 27500
+      },
+      "private_party": 28500,
+      "retail": 31000
+    },
+    "comparables": [
+      {
+        "source": "cargurus",
+        "comparable_vin": "WBA5A5C50JA123456",
+        "price": 28200,
+        "mileage": 42000,
+        "distance_miles": 10,
+        "days_listed": 18,
+        "listing_url": "https://cargurus.com/listing/bmw1",
+        "dealer_name": "BMW of Miami"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "WBA5A5C51JA234567",
+        "price": 27500,
+        "mileage": 48000,
+        "distance_miles": 15,
+        "days_listed": 24,
+        "listing_url": "https://cargurus.com/listing/bmw2",
+        "dealer_name": "CarMax"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "WBA5A5C52JA345678",
+        "price": 29000,
+        "mileage": 38000,
+        "distance_miles": 22,
+        "days_listed": 12,
+        "listing_url": "https://cargurus.com/listing/bmw3",
+        "dealer_name": "AutoNation BMW"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "WBA5A5C53JA456789",
+        "price": 26800,
+        "mileage": 50000,
+        "distance_miles": 18,
+        "days_listed": 30,
+        "listing_url": "https://autotrader.com/listing/bmw4",
+        "dealer_name": "Carvana"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "WBA5A5C54JA567890",
+        "price": 28500,
+        "mileage": 43000,
+        "distance_miles": 12,
+        "days_listed": 16,
+        "listing_url": "https://autotrader.com/listing/bmw5",
+        "dealer_name": "Vroom"
+      }
+    ],
+    "market_summary": {
+      "avg_price": 28000,
+      "min_price": 26800,
+      "max_price": 29000,
+      "total_comparables": 5,
+      "outliers_removed": 1
+    }
+  },
+  "2T1BURHE0JC123456": {
+    "vehicle_info": {
+      "vin": "2T1BURHE0JC123456",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2023,
+      "trim": "XSE",
+      "mileage": 18000
+    },
+    "kbb_data": {
+      "instant_cash_offer": 27200,
+      "trade_in_range": {
+        "low": 26500,
+        "high": 29000
+      },
+      "private_party": 29500,
+      "retail": 31500
+    },
+    "comparables": [
+      {
+        "source": "cargurus",
+        "comparable_vin": "4T1G11AK8KU123456",
+        "price": 29200,
+        "mileage": 16000,
+        "distance_miles": 8,
+        "days_listed": 6,
+        "listing_url": "https://cargurus.com/listing/camry1",
+        "dealer_name": "Toyota of Miami"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "4T1G11AK9KU234567",
+        "price": 28800,
+        "mileage": 19000,
+        "distance_miles": 12,
+        "days_listed": 8,
+        "listing_url": "https://cargurus.com/listing/camry2",
+        "dealer_name": "AutoNation Toyota"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "4T1G11AK0KU345678",
+        "price": 29500,
+        "mileage": 15000,
+        "distance_miles": 18,
+        "days_listed": 4,
+        "listing_url": "https://cargurus.com/listing/camry3",
+        "dealer_name": "CarMax"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "4T1G11AK1KU456789",
+        "price": 28500,
+        "mileage": 21000,
+        "distance_miles": 10,
+        "days_listed": 10,
+        "listing_url": "https://autotrader.com/listing/camry4",
+        "dealer_name": "Carvana"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "4T1G11AK2KU567890",
+        "price": 29000,
+        "mileage": 17000,
+        "distance_miles": 15,
+        "days_listed": 7,
+        "listing_url": "https://autotrader.com/listing/camry5",
+        "dealer_name": "DriveTime"
+      }
+    ],
+    "market_summary": {
+      "avg_price": 29000,
+      "min_price": 28500,
+      "max_price": 29500,
+      "total_comparables": 5,
+      "outliers_removed": 0
+    },
+    "demand_insights": {
+      "avg_days_to_sale": 12,
+      "demand_score": 9.2,
+      "inventory_level": "Low",
+      "trend": "Increasing",
+      "note": "XSE trim is highly sought-after, sells quickly in current market"
+    }
+  },
+  "1HGCY1F56RA100001": {
+    "vehicle_info": {
+      "vin": "1HGCY1F56RA100001",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2024,
+      "trim": "Sport",
+      "mileage": 12000
+    },
+    "kbb_data": {
+      "instant_cash_offer": 29500,
+      "trade_in_range": {
+        "low": 29000,
+        "high": 32000
+      },
+      "private_party": 32500,
+      "retail": 34500
+    },
+    "comparables": [
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCY1F57RA100234",
+        "price": 31800,
+        "mileage": 10000,
+        "distance_miles": 6,
+        "days_listed": 5,
+        "listing_url": "https://cargurus.com/listing/accord2024_1",
+        "dealer_name": "Honda of Miami"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCY1F58RA100345",
+        "price": 32500,
+        "mileage": 8000,
+        "distance_miles": 10,
+        "days_listed": 3,
+        "listing_url": "https://cargurus.com/listing/accord2024_2",
+        "dealer_name": "AutoNation Honda"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCY1F59RA100456",
+        "price": 33200,
+        "mileage": 5000,
+        "distance_miles": 15,
+        "days_listed": 2,
+        "listing_url": "https://cargurus.com/listing/accord2024_3",
+        "dealer_name": "CarMax Miami"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "1HGCY1F50RA100567",
+        "price": 30900,
+        "mileage": 15000,
+        "distance_miles": 12,
+        "days_listed": 8,
+        "listing_url": "https://autotrader.com/listing/accord2024_4",
+        "dealer_name": "Carvana"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "1HGCY1F51RA100678",
+        "price": 31500,
+        "mileage": 11000,
+        "distance_miles": 9,
+        "days_listed": 6,
+        "listing_url": "https://autotrader.com/listing/accord2024_5",
+        "dealer_name": "Vroom"
+      }
+    ],
+    "market_summary": {
+      "avg_price": 31980,
+      "min_price": 30900,
+      "max_price": 33200,
+      "total_comparables": 5,
+      "outliers_removed": 0
+    },
+    "demand_insights": {
+      "avg_days_to_sale": 8,
+      "demand_score": 9.5,
+      "inventory_level": "Very Low",
+      "trend": "Strong Demand",
+      "note": "2024 model year with Honda Sensing 360 and latest tech features. High demand, limited supply."
+    }
+  },
+  "1HGCV1F43PA000456": {
+    "vehicle_info": {
+      "vin": "1HGCV1F43PA000456",
+      "make": "Honda",
+      "model": "Accord Hybrid",
+      "year": 2023,
+      "trim": "Sport",
+      "mileage": 19459
+    },
+    "kbb_data": {
+      "instant_cash_offer": 30500,
+      "trade_in_range": {
+        "low": 30000,
+        "high": 33000
+      },
+      "private_party": 33500,
+      "retail": 36000
+    },
+    "comparables": [
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCV1F44PA100234",
+        "price": 33200,
+        "mileage": 18000,
+        "distance_miles": 7,
+        "days_listed": 4,
+        "listing_url": "https://cargurus.com/listing/accord_hybrid_1",
+        "dealer_name": "Honda of Miami"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCV1F45PA100345",
+        "price": 34100,
+        "mileage": 15000,
+        "distance_miles": 12,
+        "days_listed": 3,
+        "listing_url": "https://cargurus.com/listing/accord_hybrid_2",
+        "dealer_name": "AutoNation Honda"
+      },
+      {
+        "source": "cargurus",
+        "comparable_vin": "1HGCV1F46PA100456",
+        "price": 32800,
+        "mileage": 22000,
+        "distance_miles": 9,
+        "days_listed": 6,
+        "listing_url": "https://cargurus.com/listing/accord_hybrid_3",
+        "dealer_name": "CarMax Miami"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "1HGCV1F47PA100567",
+        "price": 33900,
+        "mileage": 16500,
+        "distance_miles": 14,
+        "days_listed": 5,
+        "listing_url": "https://autotrader.com/listing/accord_hybrid_4",
+        "dealer_name": "Carvana"
+      },
+      {
+        "source": "autotrader",
+        "comparable_vin": "1HGCV1F48PA100678",
+        "price": 32500,
+        "mileage": 24000,
+        "distance_miles": 11,
+        "days_listed": 8,
+        "listing_url": "https://autotrader.com/listing/accord_hybrid_5",
+        "dealer_name": "Vroom"
+      }
+    ],
+    "market_summary": {
+      "avg_price": 33300,
+      "min_price": 32500,
+      "max_price": 34100,
+      "total_comparables": 5,
+      "outliers_removed": 0
+    },
+    "demand_insights": {
+      "avg_days_to_sale": 6,
+      "demand_score": 9.7,
+      "inventory_level": "Very Low",
+      "trend": "Strong Demand",
+      "note": "2023 Accord Hybrid Sport in excellent condition. High demand for fuel-efficient sedans. Limited inventory."
+    }
+  }
+}
